@@ -9,3 +9,6 @@ A simple Pygame clone of Atari's first video game, Pong.
 * ~~Functioning score~~
 * ~~Increased ball speed after X bounces~~
 * Local Multiplayer
+* Ball starts in random direction
+* Start menu
+* Pause menu
