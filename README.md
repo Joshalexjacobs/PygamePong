@@ -5,7 +5,7 @@ A simple Pygame clone of Atari's first video game, Pong.
 
 # Soon to come:
 * Sound effects
-* Countdown at the -beginning of the game-/each round
-* -Functioning score-
-* -Increased ball speed after X bounces-
+* Countdown at the _beginning of the game_/each round
+* _Functioning score_
+* _Increased ball speed after X bounces_
 * Local Multiplayer
