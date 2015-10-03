@@ -1,5 +1,7 @@
 # PygamePong
-A simple Pygame clone of Atari's first video game, Pong. 
+A simple Pygame clone of Atari's first video game, Pong.
+
+<a href="https://drive.google.com/file/d/0B2tEJpz9c1gLd3N1UVJmWEZsaGc/view?usp=sharing">The current version can be downloaded here.</a>
 
 ![alt tag](https://github.com/Joshalexjacobs/joshalexjacobs.github.io/blob/master/img/pong.png?raw=true)
 
